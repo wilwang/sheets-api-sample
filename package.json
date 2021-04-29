@@ -1,0 +1,23 @@
+{
+  "name": "sheets-api-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "env GOOGLE_APPLICATION_CREDENTIALS=./creds/credentials.json node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilwang/sheets-api-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilwang/sheets-api-sample/issues"
+  },
+  "homepage": "https://github.com/wilwang/sheets-api-sample#readme",
+  "dependencies": {
+    "googleapis": "^72.0.0"
+  }
+}
