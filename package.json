@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "env GOOGLE_APPLICATION_CREDENTIALS=./creds/credentials.json node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "env GOOGLE_APPLICATION_CREDENTIALS=./creds/credentials.json node index.js"
   },
   "repository": {
     "type": "git",
